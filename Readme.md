@@ -7,7 +7,7 @@
 
 ## Preview
 
-[![Landing Page Preview](url-for-img)]
+[![Landing Page Preview](https://kwicz.github.io/merkato-ethiopian/)]
 
 **[View Live Preview](https://kwicz.github.io/merkato-ethiopian/)**
 
