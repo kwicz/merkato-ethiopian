@@ -324,6 +324,7 @@ a:hover{
 
 .sinle_features img{
 	margin-bottom:25px;
+	width: 100px;
 }
 .sinle_features h5{
 	margin-bottom:20px;
@@ -336,6 +337,7 @@ a:hover{
 	font-weight:300;
 	font-size:16px;
 }
+
 
 /* Special Section */
 .special{}
@@ -474,7 +476,7 @@ a:hover{
 
 /* footer section */
 .footer{
-	background:url(../images/footerbg.jpg) no-repeat center top;
+	background:url(../images/cinnamon.jpg) no-repeat center top;
 	background-size:cover;
 	padding-top:80px;
 }
