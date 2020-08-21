@@ -1,0 +1,13 @@
+{
+  "name": "veggi-one-page-restorent-template",
+  "version": "1.0.0",
+  "description": "== Theme Name: Veggie - FREE PSD Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
