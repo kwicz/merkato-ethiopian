@@ -28,7 +28,11 @@
 /* Mobile Phone Screen Media */
 
 @media (max-width: 768px){
-	
+
+.banner_image {
+    /* margin-top: 0px; */
+}
+
 .single_special_img img{
 	width:100%;
 }
@@ -75,12 +79,12 @@
 
 /* Mobile Phone Screen Media */
 
-@media screen (min-width: 320px) and (max-width: 480px){
-	
+@media (min-width: 320px) and (max-width: 480px){
+
 
 .main_contact_content .form-control {
     height: 45px;
-	display:inline-block;
+	display: inline-block;
 }
 
 

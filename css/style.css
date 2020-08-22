@@ -295,9 +295,10 @@ a:hover{
 /* Banner section */
 
 .banner{
-	background:url(../images/platterBanner1.png) no-repeat;
+	background:rgb(222,222,222) no-repeat;
 	position:relative;
 	background-size:cover;
+	display: flex;
 }
 
 .main_banner_area{
@@ -306,10 +307,18 @@ a:hover{
 }
 
 .single_banner_text p{
-	font-size:40px;
+	font-size:30px;
 	color:#3c3c3c;
 }
 
+.banner_image_wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.banner_image {
+	margin: -50px;
+}
 
 
 
