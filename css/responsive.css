@@ -24,6 +24,10 @@
 
 @media (max-width: 768px){
 
+body {
+    font-size: 20px !important;
+}
+
 .banner_logo {
     padding: 0px;
 }
@@ -56,7 +60,6 @@
     box-shadow: inset 0 0px 0px rgba(0,0,0,0.075);
 }
 
-
 .single_contact {
     margin-bottom: 40px;
     margin-left: 10px;
@@ -69,6 +72,8 @@
 	text-align:center;
 }
 
+
+
 }
 
 /* Mobile Phone Screen Media */
@@ -80,7 +85,6 @@
     height: 45px;
 	display: inline-block;
 }
-
 
 		
 }

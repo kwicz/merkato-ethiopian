@@ -4,7 +4,7 @@ body {
 	color: #767676;
 	-webkit-font-smoothing: antialiased;
 	width: 100%;
-	font-size:15px;
+	font-size:16px;
 	font-family: 'Yeseva One';	
 }
 
@@ -258,6 +258,7 @@ a:hover{
 .main_menu_bg{
 	margin-top:0px;
 }
+
 .main_menu_bg .navbar-default {
     background-color: transparent; 
     border-color: transparent; 
@@ -270,7 +271,9 @@ a:hover{
 	color:#3c3c3c;
 }
 .main_menu_bg .navbar {
-    margin-bottom:0px;
+		margin-bottom:0px;
+		display: flex;
+		justify-content: center;
 }
 .main_menu_bg .navbar-default .navbar-nav>.active>a{
 	border:1px solid transparent;
