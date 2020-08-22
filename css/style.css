@@ -1,20 +1,11 @@
-
-/*
-Author: Bootstrapthemes
-Author URI: http://bootstrapthemes.co
-*/
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Yeseva+One&display=swap');
 
 body {
 	color: #767676;
 	-webkit-font-smoothing: antialiased;
 	width: 100%;
 	font-size:15px;
-	font-family: 'Merriweather', serif;	
+	font-family: 'Yeseva One';	
 }
 
 
@@ -76,7 +67,7 @@ input[type="color"],
 .form-control {
 	border: 0px solid transparent;
 	font-size: 16px;
-	font-family: 'Merriweather', serif;	
+	font-family: 'Yeseva One', serif;	
 	height: 45px;
 	border-bottom:1px solid #ddd;
 	background-color: rgba(255, 255, 255, 0);
@@ -91,7 +82,7 @@ input[type="color"],
 	box-shadow: none;
 }
 p {
-	font: normal 16px "Myriad Pro", arial, sans-serif;
+	font: normal 16px "Montserrat", arial, sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6 { color: #767676;}
@@ -100,7 +91,7 @@ h1 {
 	font-size: 48px;
 	line-height: 50px;
 	font-weight: 600;
-	font-family: 'Merriweather', serif;
+	font-family: 'Yeseva One', cursive;
 	text-transform: uppercase;
 }
 
@@ -108,15 +99,16 @@ h2 {
 	font-size: 40px;
 	line-height: 38px;
 	font-weight: 600;
-	font-family: 'Merriweather', serif;
+	font-family: 'Yeseva One', cursive;
 	margin: 0;
+	text-transform: uppercase;
 }
 
 h3 {
 	font-size: 30px;
 	line-height: 32px;
 	font-weight: 600;
-	font-family: "Myriad Pro" , sans-serif;
+	font-family: "Montserrat" , sans-serif;
 	text-transform: uppercase;
 	margin: 0;
 }
@@ -126,7 +118,7 @@ h4 {
 	font-size: 24px;
 	line-height: 26px;
 	font-weight: 600;
-	font-family: "Myriad Pro" , sans-serif;
+	font-family: "Montserrat" , sans-serif;
 	text-transform: uppercase;
 	}
 
@@ -134,7 +126,7 @@ h5 {
 	font-size: 20px;
 	line-height: 22px;
 	font-weight: 600;
-	font-family: "Myriad Pro" , sans-serif;
+	font-family: "Montserrat" , sans-serif;
 	text-transform: uppercase;
 	margin: 0;
 	text-decoration: none;
@@ -144,7 +136,7 @@ h6 {
 	font-size: 18px;
 	line-height: 20px;
 	font-weight: 600;
-	font-family: "Myriad Pro" , sans-serif;
+	font-family: "Montserrat" , sans-serif;
 	text-transform: uppercase;
 	margin: 0;
 	text-decoration: none;
@@ -314,12 +306,12 @@ a:hover{
 .banner_image_wrapper {
 	display: flex;
 	justify-content: center;
+	padding: 0px;
 }
 
-.banner_image {
-	margin: -50px;
+.banner_logo {
+	padding: 50px;
 }
-
 
 
 /* features section */
@@ -408,7 +400,7 @@ a:hover{
 	font-size:30px;
 	font-weight:300;
 	text-align:center;
-	font-family: 'Merriweather', serif;
+	font-family: 'Montserrat', sans-serif;
 }
 .signature_img{}
 
