@@ -3,14 +3,11 @@
 
 @media (min-width:992px) and (max-width:1199px) {
 
-
-
-	
 	
 	
 }
 
-/* Tabe Screen Media */
+/* Tablet Screen Media */
 
 @media (min-width: 769px) and (max-width: 991px){
 
@@ -19,9 +16,7 @@
     padding: 50px 0px;
 	width: 60%;
 	margin:0 auto;
-}
-
-	
+}	
 	
 }
 
@@ -29,8 +24,8 @@
 
 @media (max-width: 768px){
 
-.banner_image {
-    /* margin-top: 0px; */
+.banner_logo {
+    padding: 0px;
 }
 
 .single_special_img img{

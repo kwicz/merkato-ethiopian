@@ -446,18 +446,22 @@ a:hover{
 
 /* Contact Section */
 
-.main_contact_content{
+.main_contact_content {
 	
 }
 .single_contact{
-    margin-bottom: 80px;
+  margin-bottom: 80px;
 	margin-left:10px;
 }
+
 .single_contact h5{
 	margin-bottom:10px;
+	color: #DEDEDE;
 }
+
 .single_contact span{
 	display:block;
+	color: #DEDEDE;
 }
 
 .contact_form_area{}
@@ -479,6 +483,7 @@ a:hover{
 	background:url(../images/cinnamon.jpg) no-repeat center top;
 	background-size:cover;
 	padding-top:80px;
+	color: #DEDEDE !important;
 }
 
 .copyright_text_area{
@@ -487,7 +492,8 @@ a:hover{
     overflow: hidden;
     width: 100%;
     border-top: 1px solid #ddd;
-    margin-top: 60px;
+		margin-top: 60px;
+		color: #DEDEDE;
 }
 .single_footer p{
 	padding:5px;
@@ -502,13 +508,13 @@ a:hover{
 }
 
 .single_footer .footer_socail a{
-	border:1px solid #666;
+	border:1px solid #DEDEDE;
 	padding:5px;
 	font-size:20px;
 	width:30px;
 	height:30px;
 	display:inline-block;
-	color:#666;
+	color:#DEDEDE;
 	line-height:20px;
 	text-align:center;
 }
