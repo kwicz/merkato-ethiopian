@@ -196,6 +196,12 @@ a:hover{
 	overflow:hidden;
 	padding:20px 0px 30px 0px;
 }
+
+.center_wrapper {
+	display: flex;
+	justify-content: center;
+}
+
 .scrolldown {
 	padding-top: 24px;
 }
@@ -559,5 +565,4 @@ a:hover{
 	margin-top: -7px;
 	margin-left: -6px;
 	text-decoration: none;
-
 }
