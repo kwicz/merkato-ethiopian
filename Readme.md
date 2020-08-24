@@ -1,6 +1,6 @@
 # _Merkato Ethiopian_
 
-#### _A website for Merkato Ethiopian Food Store, August 2020_
+#### _A website for the Merkato Ethiopian Food Store, August 2020_
 
 #### By _**Katy Solovewicz**_
 
@@ -46,14 +46,13 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 
 ## Technologies Used
 
-_Javascript_
-_jQuery_
-_Bootstrap 3(https://getbootstrap.com/docs/3.3/)_
-_Canva(https://www.canva.com/)_
-_Canva(https://www.canva.com/)_
-_Animate.css(https://animate.style/)_
-_Wow.js(https://wowjs.uk/)_
-_Owl Carousel(https://owlcarousel2.github.io/OwlCarousel2/)_
+- _Javascript_
+- _jQuery_
+- _Bootstrap 3(https://getbootstrap.com/docs/3.3/)_
+- _Canva(https://www.canva.com/)_
+- _Animate.css(https://animate.style/)_
+- _Wow.js(https://wowjs.uk/)_
+- _Owl Carousel(https://owlcarousel2.github.io/OwlCarousel2/)_
 
 
 ### License
