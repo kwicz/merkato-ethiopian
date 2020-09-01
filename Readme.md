@@ -12,7 +12,7 @@ The Ethiopian Merkato is a place for Portland's Ethiopian community to meet, emb
 
 ## The Result:
 
-![Website Preview](images/website.png)
+![Website Preview](images/website-preview.png)
 
 
 ## Setup/Installation Requirements
@@ -53,6 +53,7 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 - _Animate.css(https://animate.style/)_
 - _Wow.js(https://wowjs.uk/)_
 - _Owl Carousel(https://owlcarousel2.github.io/OwlCarousel2/)_
+- _Images from Unsplash and Brundo_
 
 
 ### License
