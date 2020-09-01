@@ -295,7 +295,8 @@ a:hover{
 /* Banner section */
 
 .banner{
-	background:rgb(222,222,222) no-repeat;
+	/* background:rgb(222,222,222) no-repeat; */
+	background:url(../images/valentin-balan-IG0aSfHhXxQ-unsplash.jpg) no-repeat;
 	position:relative;
 	background-size:cover;
 	display: flex;
@@ -314,11 +315,14 @@ a:hover{
 .banner_image_wrapper {
 	display: flex;
 	justify-content: center;
-	padding: 0px;
+	padding: 50px;
 }
 
 .banner_logo {
-	padding: 50px;
+	/* padding: 50px; */
+	box-shadow: 10px 10px 20px 00px rgba(60,60,60,1);
+	border-radius: 5px;
+	/* margin: 50px; */
 }
 
 
